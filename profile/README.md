@@ -1,1 +1,1 @@
-## Edge computing team of Ksyun
+# Kingsoft Cloud Edge Node Computing
